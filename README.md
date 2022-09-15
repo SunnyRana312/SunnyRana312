@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sunnyyrana396
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learnin JAVASCRIPT 7 FRONTEND LIBRARIES
+- 🌱 I’m currently learnin the front end part
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+      mailto:sunnyyrana42@gmail.com
 
 <!---
 sunnyyrana396/sunnyyrana396 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
