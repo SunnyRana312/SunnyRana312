@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sunnyyrana396
+- 👋 Hi, I’m @sunnyRana312
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learnin the front end part
+- 🌱 I’m currently learnin the frontend 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
       mailto:sunnyyrana42@gmail.com
